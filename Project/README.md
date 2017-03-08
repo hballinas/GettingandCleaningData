@@ -34,4 +34,5 @@ At the end there's a chunk indicating how to create the Codebook.md file.  Pleas
 
 ##Outputs produced
 
-Tidy dataset file DatasetHumanActivityRecognitionUsingSmartphones.txt (tab-delimited text) Codebook file (codebook.md, codebook.Rmd is RStudio Markdown file)
+Tidy dataset file DatasetHumanActivityRecognitionUsingSmartphones.txt (tab-delimited text) 
+Codebook file (codebook.md, codebook.Rmd is RStudio Markdown file)
